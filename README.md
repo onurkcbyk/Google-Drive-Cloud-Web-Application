@@ -9,9 +9,9 @@ This project is a web application that connects to your personal Google Drive ac
 
 **Choose File** - Select files from your computer: photos, documents, videos - you can select any type of file
 
-**List Files** - View all files in your Google Drive: list your files just like logging into Drive
-
 **Upload** - Upload selected files to your Google Drive: file transfer happens through Google's secure servers
+
+**List Files** - View all files in your Google Drive: list your files just like logging into Drive
 
 ### 📋 File List Page 1
 ![File List 1](screenshots/file-list-1.png)
@@ -22,8 +22,6 @@ This project is a web application that connects to your personal Google Drive ac
 
 ### 📂 File List Page 2
 ![File List 2](screenshots/file-list-2.png)
-
-**Delete** - Delete unwanted files from Google Drive: get rid of unnecessary files
 
 **Back to Upload** - Return to main page: easily go back to upload new files
 
