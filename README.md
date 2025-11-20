@@ -3,8 +3,7 @@ This project is a web application that connects to your personal Google Drive ac
 
 📱 Screenshots and Descriptions
 🏠 Main Page
-https://screenshots/main-page.png
-
+![Main Page](./screenshots/main-page.png)
 Choose File - Select files from your computer: photos, documents, videos - you can select any type of file
 
 List Files - View all files in your Google Drive: list your files just like logging into Drive
